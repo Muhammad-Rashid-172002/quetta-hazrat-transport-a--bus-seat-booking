@@ -1,0 +1,6 @@
+{
+  "name": "Nexora Logistics",
+  "description": "Commercial goods transportation and logistics platform demo with interactive freight quotation, live shipment tracking, and Transport Management System (TMS) preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
